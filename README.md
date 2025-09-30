@@ -119,10 +119,9 @@ When I'm not programming, you'll find me on the basketball court, volleyball net
 **Description**: "Interested in collaborating or just want to chat about games and code? Reach out!"
 
 **Contact Methods**:
-- Email: your.email@example.com
+- Email: zyril.evangelistayt30@gmail.com
 - GitHub: github.com/yourusername
-- LinkedIn: linkedin.com/in/yourprofile
-- Twitter: @yourhandle
+- LinkedIn: linkedin.com/in/evangelista-zyril-b95679346/
 
 ---
 
